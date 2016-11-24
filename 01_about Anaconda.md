@@ -1,2 +1,2 @@
 # LearningPython
-Note for learning Python with jakevdp/WhirlwindTourOfPython
+#install python and manage different versions of python
